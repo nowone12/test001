@@ -3,7 +3,3 @@
 aaa
 
 bbb
-
-ccc
-
-ddd
