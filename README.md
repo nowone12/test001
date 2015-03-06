@@ -8,3 +8,9 @@ ccc
 ddd
 eee
 fff
+
+------- from local vm --------
+ggg
+hhh
+iii
+------------------------------
